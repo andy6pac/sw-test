@@ -5,4 +5,4 @@
 1.4 Installing Git
 1.5 First-Time Git Setup
 1.6 Getting Help
-1.7 Summary
+1.7 Summary 1
